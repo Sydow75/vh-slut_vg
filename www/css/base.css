@@ -1,5 +1,6 @@
 @import url("navigation.css");
 @import url("footer.css");
+@import url("content.css");
 
 /*
 ==============
@@ -14,4 +15,8 @@ a:link {
 a:hover > p {
    background-color: black;
    color: white;
+}
+
+body {
+   background-color: darkolivegreen;
 }

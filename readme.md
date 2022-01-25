@@ -2,23 +2,30 @@
 
 ## Om
 Gritty Café är en exempelsite för att lära sig versionshantering med Git och Github som host.
-
+Detta kommer bli en färdig hemsida som är enkel att administrera. Tanken bakom detta projekt
+är att gemene man kan göra lättare ändringar själv när allt är klart. 
 
 ## Översikt
-**Content** finns i rotmappen\
-**Bilder** finns i folder *img*\
-**Styling** finns i folder *style*
+Delar som jag har arbetat med i detta projekt:
+- GitHub i allmänhet
+- Projects -kanban
+- Milstolpar
+- Issues
+- Releases
+- GitHub Desktop
+- Git Extensions, främst för "trädet"
+- Visual Studio Code
+- Kontroll och noggrannhet är mina ledord
 
-## credits
-> Så nu sitter jag här i min nya bil\
-> Och lyfter min gyllene hatt\
-> Och jag vill tacka livet, jag har haft tur
-
-av Lars Demian, stjärnan och karriären\
-(OBS! Känsliga varnas för ekivok text.)
+## Credits
+Credits går till mina kollegor som har hjälpt mig i detta projekt att uppnåg VG genom att granska mitt
+arbete och ge mig konkret feedback. 
 
 ## Licens
 Detta projekt är publicerat med [MIT-license](https://opensource.org/licenses/MIT)
 
-## Författare
-[@johan-at-grit](https://github.com/johan-at-grit/)
+## Original Författare
+[@johan-at-grit](https://github.com/johan-at-grit/) 
+### Ändringar gjorda av Michaela Sydow ansvarig för projektet
+[@Sydow75](https://github.com/Sydow75)
+
