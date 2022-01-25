@@ -72,24 +72,32 @@ h2{
 
 /*Menu style*/
 
-.content p {
-   font-family: Impact, Helvetica, sans-serif;
+.menu{
+
    font-size: 20px;
    text-align: left;
    color: white;
    margin-bottom: 1em;
-   margin-top: 3em;
+   
    margin: 2em;
 }
+
 ul{
    text-align: left;
    color: white;
- 
-  margin: 2em;
-  padding: 2em;
-  background-color: darkolivegreen;
- line-height: 1.5;
+   margin: 2em;
+   padding: 2em;
+   background-color: darkolivegreen;
+   line-height: 1.5;
+}
 
-  
-  
+
+.index {
+
+   font-size: 20px;
+   text-align: center;
+   color: white;
+   margin-bottom: 1em;
+   margin-top: 3em;
+   margin: 2em;
 }
