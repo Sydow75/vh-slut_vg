@@ -1,4 +1,6 @@
 @import url("navigation.css");
+@import url("footer.css");
+@import url("content.css");
 
 /*
 ==============
@@ -17,4 +19,58 @@ a:hover > p {
 
 body {
    background-color: darkolivegreen;
+   margin: 0;
+   padding: 2em;
+}
+
+.nav{
+ float: right; 
+ display: flex;
+ color: white;
+
+
+}
+
+h1{
+   text-align: center;
+   color: white;
+   padding-top: 2em;
+
+}
+h2{
+   text-align: center;
+   color: white;
+}
+
+.banner{
+   align-self: center;
+}
+
+.content p {
+   font-family: Impact, Helvetica, sans-serif;
+   font-size: 20px;
+   text-align: center;
+   color: white;
+   margin-bottom: 5em;
+}
+
+.footer p {
+   font-size: 1em;
+   font-style: italic;
+   color: lightgray;
+   display:inline;
+   padding: 4px 24px;
+   
+}
+
+.footer {
+   background-color: darkslategray;
+   margin: 2em;
+   display: flex;
+}
+
+.navigation a p {
+   font-size: 1.5em;
+   display:inline;
+   padding: 4px 24px;
 }
