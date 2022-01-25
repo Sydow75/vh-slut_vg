@@ -101,3 +101,12 @@ ul{
    margin-top: 3em;
    margin: 2em;
 }
+
+/*about*/
+.about-p{
+   color: white;
+   text-align: center;
+   font-size: large;
+   margin-bottom: 10em;
+   margin-top: 3em;
+}
