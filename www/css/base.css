@@ -46,13 +46,7 @@ h2{
    align-self: center;
 }
 
-.content p {
-   font-family: Impact, Helvetica, sans-serif;
-   font-size: 20px;
-   text-align: center;
-   color: white;
-   margin-bottom: 5em;
-}
+
 
 .footer p {
    font-size: 1em;
@@ -73,4 +67,37 @@ h2{
    font-size: 1.5em;
    display:inline;
    padding: 4px 24px;
+}
+
+
+/*Menu style*/
+
+.menu{
+
+   font-size: 20px;
+   text-align: left;
+   color: white;
+   margin-bottom: 1em;
+   
+   margin: 2em;
+}
+
+ul{
+   text-align: left;
+   color: white;
+   margin: 2em;
+   padding: 2em;
+   background-color: darkolivegreen;
+   line-height: 1.5;
+}
+
+
+.index {
+
+   font-size: 20px;
+   text-align: center;
+   color: white;
+   margin-bottom: 1em;
+   margin-top: 3em;
+   margin: 2em;
 }
