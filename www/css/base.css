@@ -19,4 +19,106 @@ a:hover > p {
 
 body {
    background-color: darkolivegreen;
+   margin: 0;
+   padding: 2em;
+}
+
+.nav{
+ float: right; 
+ display: flex;
+ color: white;
+
+
+}
+
+h1{
+   text-align: center;
+   color: white;
+   padding-top: 2em;
+
+}
+h2{
+   text-align: center;
+   color: white;
+}
+
+.banner{
+   align-self: center;
+}
+
+
+
+.footer p {
+   font-size: 1em;
+   font-style: italic;
+   color: lightgray;
+   display:inline;
+   padding: 4px 24px;
+   
+}
+
+.footer {
+   background-color: darkslategray;
+   margin: 2em;
+   display: flex;
+}
+
+.navigation a p {
+   font-size: 1.5em;
+   display:inline;
+   padding: 4px 24px;
+}
+
+
+/*Menu style*/
+
+.menu{
+
+   font-size: 20px;
+   text-align: left;
+   color: white;
+   margin-bottom: 1em;
+   
+   margin: 2em;
+}
+
+ul{
+   text-align: left;
+   color: white;
+   margin: 2em;
+   padding: 2em;
+   background-color: darkolivegreen;
+   line-height: 1.5;
+}
+
+
+.index {
+
+   font-size: 20px;
+   text-align: center;
+   color: white;
+   margin-bottom: 1em;
+   margin-top: 3em;
+   margin: 2em;
+}
+
+/*about*/
+.about-p{
+   color: white;
+   text-align: center;
+   font-size: large;
+   margin-bottom: 10em;
+   margin-top: 3em;
+}
+
+/*find*/
+.hitta{
+   text-align: left;
+  
+   
+}
+.find{
+   color: white;
+  
+
 }
