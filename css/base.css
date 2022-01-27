@@ -1,12 +1,4 @@
-@import url("navigation.css");
-@import url("footer.css");
-@import url("content.css");
 
-/*
-==============
-common styling
-============== 
-*/
 
 a:link {
    text-decoration: none;
@@ -130,3 +122,4 @@ ul{
   
 
 }
+
