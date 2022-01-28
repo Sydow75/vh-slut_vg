@@ -1,12 +1,4 @@
-@import url("navigation.css");
-@import url("footer.css");
-@import url("content.css");
 
-/*
-==============
-common styling
-============== 
-*/
 
 a:link {
    text-decoration: none;
@@ -77,6 +69,19 @@ h2{
    padding: 4px 24px;
 }
 
+.footer-1{
+   background-color: blue;
+   margin: 2em;
+   display: flex;
+   position: relative;
+}
+.footer-1 p{
+   font-size: 1em;
+   font-style: italic;
+   color: lightgray;
+   display:inline;
+   padding: 4px 24px;
+}
 
 /*Menu style*/
 
@@ -130,3 +135,4 @@ ul{
   
 
 }
+
